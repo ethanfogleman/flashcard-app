@@ -1,4 +1,4 @@
-#flashcard-app
+# flashcard-app
 Flashcard-O-Matic project for Thinkful software engineering bootcamp.
 
 Learning Objectives:
@@ -11,7 +11,7 @@ Learning Objectives:
 
 -Utilizing NPM to install packages.
 
-#Installation
+# Installation
 Fork / clone this repository
 
 Run `npm install`
